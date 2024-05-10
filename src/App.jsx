@@ -1,5 +1,10 @@
+import { Calculator } from "./components";
 function App() {
-  return <></>;
+  return (
+    <>
+      <Calculator />
+    </>
+  );
 }
 
 export default App;
